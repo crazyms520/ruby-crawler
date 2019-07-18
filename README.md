@@ -6,4 +6,4 @@
 ## 地雷紀錄
 1. 需下載 Selenium WebDriver chrome 版本，並設定 $PATH
 
-2. Gemfile 每次修改需使用 bundle 執行一次
+2. Gemfile 每次修改需執行 bundle
